@@ -1,0 +1,14 @@
+{
+  "name": "8pin-arweave-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/8pin-arweave-tutorial.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "scripts": {
+    "load-data": "node load-dev-data.js"
+  },
+  "dependencies": {
+    "arweave": "^1.10.23"
+  }
+}
